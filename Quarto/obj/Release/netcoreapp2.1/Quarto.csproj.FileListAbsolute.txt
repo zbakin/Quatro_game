@@ -1,0 +1,10 @@
+/Users/zhanibeksmac/Projects/Quarto/Quarto/bin/Release/netcoreapp2.1/Quarto.deps.json
+/Users/zhanibeksmac/Projects/Quarto/Quarto/bin/Release/netcoreapp2.1/Quarto.runtimeconfig.json
+/Users/zhanibeksmac/Projects/Quarto/Quarto/bin/Release/netcoreapp2.1/Quarto.runtimeconfig.dev.json
+/Users/zhanibeksmac/Projects/Quarto/Quarto/bin/Release/netcoreapp2.1/Quarto.dll
+/Users/zhanibeksmac/Projects/Quarto/Quarto/bin/Release/netcoreapp2.1/Quarto.pdb
+/Users/zhanibeksmac/Projects/Quarto/Quarto/obj/Release/netcoreapp2.1/Quarto.csproj.CoreCompileInputs.cache
+/Users/zhanibeksmac/Projects/Quarto/Quarto/obj/Release/netcoreapp2.1/Quarto.AssemblyInfoInputs.cache
+/Users/zhanibeksmac/Projects/Quarto/Quarto/obj/Release/netcoreapp2.1/Quarto.AssemblyInfo.cs
+/Users/zhanibeksmac/Projects/Quarto/Quarto/obj/Release/netcoreapp2.1/Quarto.dll
+/Users/zhanibeksmac/Projects/Quarto/Quarto/obj/Release/netcoreapp2.1/Quarto.pdb
